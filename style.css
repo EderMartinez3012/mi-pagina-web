@@ -1,0 +1,19 @@
+#nombre{
+    color: blue;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.foto{
+    border: 10px solid black;
+}
+
+.parrafo1, .parrafo2, .parrafo3{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.enlace1, .enlace2{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
